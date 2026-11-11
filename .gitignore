@@ -75,3 +75,5 @@ Plugins/**/Intermediate/*
 DerivedDataCache/*
 
 .claude/
+.mcp.json
+Art/
